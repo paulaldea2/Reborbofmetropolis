@@ -1,5 +1,4 @@
-# Reborbofmetropolis
-REBORN OF METROPOLIS
+# REBORN OF METROPOLIS
 
 Pentru a deschide "Scenariul" este nevoie de versiunea de Greenfoot 2.4.2.
 Multumesc!
